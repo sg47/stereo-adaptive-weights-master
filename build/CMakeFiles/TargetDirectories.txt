@@ -1,0 +1,3 @@
+/root/Downloads/stereo-adaptive-weights-master/build/CMakeFiles/show_weights.dir
+/root/Downloads/stereo-adaptive-weights-master/build/CMakeFiles/stereoAdaptiveWeights.dir
+/root/Downloads/stereo-adaptive-weights-master/build/CMakeFiles/tiff2png.dir

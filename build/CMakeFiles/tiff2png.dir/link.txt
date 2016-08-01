@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG  -fopenmp CMakeFiles/tiff2png.dir/io_png.c.o CMakeFiles/tiff2png.dir/io_tiff.c.o CMakeFiles/tiff2png.dir/tiff2png.cpp.o  -o tiff2png -rdynamic -ltiff -lpng -lz 
